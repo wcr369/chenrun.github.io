@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 <!-- [Link to another page](./another-page.html). -->
-[Xiao Hongshu Page]("https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868").
+[Xiao Hongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868).
 
 There should be whitespace between paragraphs.
 
