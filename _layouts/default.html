@@ -41,25 +41,7 @@
 
         <p>于每刻践行自己的意志，才算是真正地活着。独属于你的思想，需要岁月来浇铸。</p>
         <p>北京时间: <span id="beijing-time"></span> <br> 世界时间: <span id="world-time"></span></p>
-
         <div id="comments"></div>
-          <h2>Comments</h2>
-          <div id="disqus_thread"></div>
-          <script>
-            var disqus_config = function () {
-              this.page.url = '{{ page.url | absolute_url }}';
-              this.page.identifier = '{{ page.url }}';
-            };
-            (function() {
-              var d = document, s = d.createElement('script');
-              s.src = 'https://YOUR_DISQUS_SHORTNAME.disqus.com/embed.js';
-              s.setAttribute('data-timestamp', +new Date());
-              (d.head || d.body).appendChild(s);
-            })();
-          </script>
-          <noscript>Please enable JavaScript to view the comments.</noscript>
-        </div>
-        
         <script>
           function updateTime() {
             const beijingTime = new Date().toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" });
