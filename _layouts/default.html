@@ -59,7 +59,7 @@
           <script id="dsq-count-scr" src="//chenrun.disqus.com/count.js" async></script>
         {% endif %} -->
         <div style="text-align:center;">
-          <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" style="width:60%;height:auto;">
+          <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" style="width:40%;height:auto;">
         </div></div>
         <script>
           function updateTime() {
@@ -78,6 +78,15 @@
 
       </section>
       <footer>
+        <p>Page views: <span id="page-views"></span></p>
+        <script>
+          if (localStorage.pageViews) {
+            localStorage.pageViews = Number(localStorage.pageViews) + 1;
+          } else {
+            localStorage.pageViews = 1;
+          }
+          document.getElementById('page-views').textContent = localStorage.pageViews;
+        </script>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
