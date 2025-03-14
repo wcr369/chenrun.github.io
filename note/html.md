@@ -1,5 +1,5 @@
 ---
-post
+layout: post
 ---
 
 # Learning HTML
