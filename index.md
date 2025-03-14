@@ -7,10 +7,10 @@ layout: default
 
 The comments section is not yet developed. Please leave your feedback in the issues module.
 
-## Academic Insights on Artificial Intelligence
+## Mastering AI Insights
 [Reinforcement Learning Study Notes](./note/RL.md).
 
-## Insights on Enhancing Computer Skills
+## Mastering Computer Skills
 [HTML Learning Notes](./note/html.md).
 
 ## Ficton Corner
