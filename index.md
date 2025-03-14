@@ -2,12 +2,13 @@
 layout: default
 ---
 
+## Hello, welcome to Chenrun's personal page!(Mainly about my life experience)
 
-
+# Some of my social links
 <!-- [Link to another page](./another-page.html). -->
 [Xiaohongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868).
-
 [Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ).
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
