@@ -78,16 +78,13 @@
       </section>
       <footer>
         <script>
-          if (localStorage.getItem('page_views')) {
-            localStorage.setItem('page_views', Number(localStorage.getItem('page_views')) + 1);
-          } else {
-            localStorage.setItem('page_views', 1);
-          }
-          document.addEventListener('DOMContentLoaded', function() {
-            document.getElementById('page-views').textContent = localStorage.getItem('page_views');
-          });
+          fetch('https://api.countapi.xyz/hit/chenrun.github.io/visits')
+            .then(response => response.json())
+            .then(data => {
+              document.getElementById('page-views').textContent = data.value;
+            });
         </script>
-        <p>历史点击数: <span id="page-views"></span></p>
+        <p>history views: <span id="page-views"></span></p>
         {% if site.github.is_project_page %}
           <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
