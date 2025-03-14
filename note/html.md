@@ -1,3 +1,7 @@
+---
+post
+---
+
 # Learning HTML
 
 ## Introduction
@@ -42,7 +46,11 @@ HTML (HyperText Markup Language) is the standard language for creating web pages
 </html>
 ```
 
+## 一些心得
 
+1. 如果你想在 HTML 里让文本换行，但不想用 <p>（因为段落之间间距太大），可以使用以下方法：
+
+    ```<p>这是一行文本。<br>这是一行换行后的文本。</p>```
 
 ## Resources
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/)

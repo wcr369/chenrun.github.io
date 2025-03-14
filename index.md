@@ -10,6 +10,9 @@ The comments section is not yet developed. Please leave your feedback in the iss
 ## Something about AI
 [Reinforcement Learning Study Notes](./note/RL.md).
 
+## Something about computer skill improvement
+[HTML Learning Notes](./note/html.md).
+
 ## My Ficton Corner
 
 Welcome to the Fiction Corner! Here, I share my creative writing, including short stories, novels, and other literary works. Dive into a world of imagination and explore the characters, plots, and settings that I've crafted. 
