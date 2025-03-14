@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Header Image](/assets/img/self1.jpg){: .full-width}
+<!-- ![Header Image](/assets/img/self1.jpg){: .full-width} -->
 ### Hello, welcome to Chenrun's personal page!(Mainly about my life experience)
 
 The comments section is not yet developed. Please leave your feedback in the issues module.
