@@ -77,18 +77,16 @@
 
       </section>
       <footer>
-        
-        
         {% if site.github.is_project_page %}
-        <p>Page views: <span id="page-views"></span><br>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        <script>
-          if (localStorage.pageViews) {
-            localStorage.pageViews = Number(localStorage.pageViews) + 1;
-          } else {
-            localStorage.pageViews = 1;
-          }
-          document.getElementById('page-views').textContent = localStorage.pageViews;
-        </script>
+          <p>Page views: <span id="page-views"></span><br>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+          <script>
+            if (localStorage.pageViews) {
+              localStorage.pageViews = Number(localStorage.pageViews) + 1;
+            } else {
+              localStorage.pageViews = 1;
+            }
+            document.getElementById('page-views').textContent = localStorage.pageViews;
+          </script>
         {% endif %}
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
