@@ -4,13 +4,14 @@ layout: default
 
 ### Hello, welcome to Chenrun's personal page!(Mainly about my life experience)
 
+The comments section is not yet developed. Please leave your feedback in the issues module.
 
 ## Something about AI
 [Reinforcement Learning Study Notes](./note/RL.md).
 
 ## My Ficton Corner
 
-Welcome to the Fiction Corner! Here, I share my creative writing, including short stories, novels, and other literary works. Dive into a world of imagination and explore the characters, plots, and settings that I've crafted. Whether you're a fan of drama, mystery, romance, or fantasy, there's something here for everyone. Enjoy reading and feel free to leave your thoughts and feedback!
+Welcome to the Fiction Corner! Here, I share my creative writing, including short stories, novels, and other literary works. Dive into a world of imagination and explore the characters, plots, and settings that I've crafted. 
 
 [My Wechat public account](https://mp.weixin.qq.com/s?__biz=Mzk1NzQwMzU4Nw==&mid=2247483700&idx=1&sn=942434064e83baa2ff2f2592fcc8c024)
 
