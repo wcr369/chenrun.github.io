@@ -3,3 +3,11 @@
     width: 50px; /* 调整宽度 */
     height: auto; /* 保持宽高比 */
   }
+
+.full-width {
+width: 100%;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
