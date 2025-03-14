@@ -2,19 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.logo {
-    width: 60%; /* 调整宽度 */
-    height: auto; /* 保持宽高比 */
-  }
-
-.full-width {
-width: 100%;
-height: auto;
-display: block;
-margin-left: auto;
-margin-right: auto;
-}
-
 
 .rainbow-text {
     background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
