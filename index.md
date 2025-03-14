@@ -6,6 +6,7 @@ layout: default
 
 
 ## Something about AI
+[Reinforcement Learning Study Notes](./note/RL.md).
 
 ## My Ficton Corner
 
