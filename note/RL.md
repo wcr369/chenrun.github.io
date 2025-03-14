@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ## Not begin yet
 
