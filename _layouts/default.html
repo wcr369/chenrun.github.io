@@ -76,15 +76,14 @@
 
       </section>
       <footer>
-        <!-- <p>Page views: <span id="page-views"></span></p>
+        <p>Page views: <span id="page-views"></span></p>
         <script>
-          if (localStorage.pageViews) {
-            localStorage.pageViews = Number(localStorage.pageViews) + 1;
-          } else {
-            localStorage.pageViews = 1;
-          }
-          document.getElementById('page-views').textContent = localStorage.pageViews;
-        </script> -->
+          fetch('https://api.countapi.xyz/hit/chenrun.github.io/visits')
+            .then(response => response.json())
+            .then(data => {
+              document.getElementById('page-views').textContent = data.value;
+            });
+        </script>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
