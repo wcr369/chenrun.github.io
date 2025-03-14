@@ -40,6 +40,20 @@
         {% endif %}
 
         <p>于每刻践行自己的意志，才算是真正地活着。独属于你的思想，需要岁月来浇铸。</p>
+        <div id="time-container"></div>
+          <p>北京时间: <span id="beijing-time"></span></p>
+          <p>世界时间: <span id="world-time"></span></p>
+        </div>
+        <script>
+          function updateTime() {
+            const beijingTime = new Date().toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" });
+            const worldTime = new Date().toUTCString();
+            document.getElementById("beijing-time").textContent = beijingTime;
+            document.getElementById("world-time").textContent = worldTime;
+          }
+          setInterval(updateTime, 1000);
+          updateTime();
+        </script>
       </header>
       <section>
 
