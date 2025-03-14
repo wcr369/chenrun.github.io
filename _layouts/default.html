@@ -42,14 +42,11 @@
         <p>于每刻践行自己的意志，才算是真正地活着。独属于你的思想，需要岁月来浇铸。</p>
         <div id="time-container"></div>
           <p>北京时间: <span id="beijing-time"></span></p>
-          <p>世界时间: <span id="world-time"></span></p>
         </div>
         <script>
           function updateTime() {
             const beijingTime = new Date().toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" });
-            const worldTime = new Date().toUTCString();
             document.getElementById("beijing-time").textContent = beijingTime;
-            document.getElementById("world-time").textContent = worldTime;
           }
           setInterval(updateTime, 1000);
           updateTime();
@@ -61,9 +58,8 @@
 
       </section>
       <footer>
-        <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
         {% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        <p>         This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
