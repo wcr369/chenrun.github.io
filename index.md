@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 <!-- ![Header Image](/assets/img/self1.jpg){: .full-width} -->
