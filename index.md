@@ -10,7 +10,21 @@ layout: default
 
 [Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ).
 
+## Something about AI
 
+## Film Diary and Reviews
+
+## Book Watchlist
+
+## Music Diary
+
+## Food Record
+
+## Trekking Journal
+
+
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 There should be whitespace between paragraphs.
@@ -128,3 +142,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
+<!--
