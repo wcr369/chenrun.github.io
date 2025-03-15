@@ -9,10 +9,10 @@ comments: true
 The comments section is not yet developed. Please leave your feedback in the issues module.
 
 ## Mastering AI Insights
-[Reinforcement Learning Study Notes](./note/RL.md).
+[Reinforcement Learning Study Notes](./note/RL.md)
 
 ## Mastering Computer Skills
-[HTML Learning Notes](./note/html.md).
+[HTML Learning Notes](./note/html.md)
 
 ## Ficton Corner
 
@@ -21,7 +21,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 [My Wechat public account](https://mp.weixin.qq.com/s?__biz=Mzk1NzQwMzU4Nw==&mid=2247483700&idx=1&sn=942434064e83baa2ff2f2592fcc8c024)
 
 ## Film Diary and Reviews
-[粗野派](./note/粗野派.md).
+[粗野派](./note/粗野派.md)
 
 ## Book Watchlist
 
@@ -34,8 +34,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 
 ## Some of my social links
 <!-- [Link to another page](./another-page.html). -->
-[Xiaohongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868).
-
-[Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ).
+[Xiaohongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868)
+[Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ)
 
 
