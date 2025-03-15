@@ -22,6 +22,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 
 ## Film Diary and Reviews
 [粗野派](./note/粗野派.md)
+[恐怖游轮](./note/恐怖游轮.md)
 
 ## Book Watchlist
 
