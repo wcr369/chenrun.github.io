@@ -21,6 +21,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 [My Wechat public account](https://mp.weixin.qq.com/s?__biz=Mzk1NzQwMzU4Nw==&mid=2247483700&idx=1&sn=942434064e83baa2ff2f2592fcc8c024)
 
 ## Film Diary and Reviews
+[粗野派](./note/粗野派.md).
 
 ## Book Watchlist
 
