@@ -21,7 +21,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 [My Wechat public account](https://mp.weixin.qq.com/s?__biz=Mzk1NzQwMzU4Nw==&mid=2247483700&idx=1&sn=942434064e83baa2ff2f2592fcc8c024)
 
 ## Daily Diary
-This module records interesting experiences from my daily life, including Film Reviews, Book Watchlist, Music Diary, Food Record, and so on.
+This module records interesting experiences from my daily life, including **Film** Reviews, **Book** Watchlist, **Music** Diary, **Food** Record, and so on.
 
 [粗野派](./note/粗野派.md)
 
