@@ -20,24 +20,25 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 
 [My Wechat public account](https://mp.weixin.qq.com/s?__biz=Mzk1NzQwMzU4Nw==&mid=2247483700&idx=1&sn=942434064e83baa2ff2f2592fcc8c024)
 
-## Film Diary and Reviews
+## Daily Diary
+This module records interesting experiences from my daily life, including Film Reviews, Book Watchlist, Music Diary, Food Record, and so on.
+
 [粗野派](./note/粗野派.md)
 
 [恐怖游轮](./note/恐怖游轮.md)
 
-## Book Watchlist
-
-## Music Diary
-
-## Food Record
+后续重新排版......
 
 ## Trekking Journal
+徒步
 
 
 ## Some of my social links
 <!-- [Link to another page](./another-page.html). -->
 [Xiaohongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868)
 
-[Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ)
+
+[CSDN Page](https://blog.csdn.net/wangcr_pangge)
 
 
