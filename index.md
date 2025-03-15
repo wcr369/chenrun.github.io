@@ -22,6 +22,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 
 ## Film Diary and Reviews
 [粗野派](./note/粗野派.md)
+
 [恐怖游轮](./note/恐怖游轮.md)
 
 ## Book Watchlist
@@ -36,6 +37,7 @@ Welcome to the Fiction Corner! Here, I share **my creative writing**, including 
 ## Some of my social links
 <!-- [Link to another page](./another-page.html). -->
 [Xiaohongshu Page](https://www.xiaohongshu.com/user/profile/6104a7de0000000001002868)
+
 [Google scholar](https://scholar.google.com/citations?hl=en&user=bTBkHegAAAAJ)
 
 
